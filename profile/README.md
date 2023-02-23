@@ -1,4 +1,4 @@
-# PragmaticsL Research in Computer Science and its Applications 
+# Pragmatics: Research in Computer Science and its Applications 
 
 ## Welcome
 
